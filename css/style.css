@@ -130,7 +130,7 @@ img {
 
  /* Tablet */
 
- @media screen and (max-width:800px) {
+ @media screen and (max-width:1139px) {
     body{
         width:768px
     }
@@ -142,7 +142,7 @@ img {
 
  /* Mobile */
 
- @media screen and (max-width:500px) {
+ @media screen and (max-width:767px) {
     body{
         width: 480px;
     }
