@@ -1,0 +1,1 @@
+Questo esercizio è servito ad applicare le media-query per i breakpoint di Bootstrap non applicando nessuna classe del framework a un codice non scritto da me.
